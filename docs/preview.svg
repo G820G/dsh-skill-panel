@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="A skills page in the left panel and a skill list opened from the composer">
+  <g fill="none" stroke="#8b93a7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="40" width="60" height="220" rx="16"/>
+    <rect x="112" y="40" width="496" height="180" rx="16"/>
+    <path d="M112 252h496v44a16 16 0 0 1-16 16H128a16 16 0 0 1-16-16Z" fill="#4f74e8" fill-opacity="0.08"/>
+  </g>
+  <g fill="#8b93a7">
+    <rect x="130" y="66" width="150" height="10" rx="5"/>
+    <rect x="130" y="86" width="240" height="6" rx="3" opacity="0.6"/>
+  </g>
+  <g fill="none" stroke="#8b93a7" stroke-width="2">
+    <rect x="130" y="108" width="458" height="42" rx="10"/>
+    <rect x="130" y="158" width="458" height="42" rx="10"/>
+  </g>
+  <g fill="#8b93a7">
+    <rect x="150" y="122" width="88" height="7" rx="3.5"/>
+    <rect x="150" y="136" width="210" height="5" rx="2.5" opacity="0.6"/>
+    <rect x="150" y="172" width="66" height="7" rx="3.5"/>
+    <rect x="150" y="186" width="180" height="5" rx="2.5" opacity="0.6"/>
+  </g>
+  <g>
+    <rect x="44" y="60" width="36" height="36" rx="10" fill="none" stroke="#8b93a7" stroke-width="2"/>
+    <rect x="44" y="112" width="36" height="36" rx="10" fill="#4f74e8" fill-opacity="0.14" stroke="#4f74e8" stroke-width="2"/>
+    <rect x="44" y="164" width="36" height="36" rx="10" fill="none" stroke="#8b93a7" stroke-width="2"/>
+    <path d="M62 120.2C62.8 124.1 64.6 125.9 68.5 126.7C64.6 127.5 62.8 129.3 62 133.2C61.2 129.3 59.4 127.5 55.5 126.7C59.4 125.9 61.2 124.1 62 120.2Z" fill="#4f74e8"/>
+    <circle cx="62" cy="78" r="6" fill="none" stroke="#8b93a7" stroke-width="2"/>
+    <path d="M56 182h12M62 176v12" stroke="#8b93a7" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g>
+    <rect x="336" y="150" width="264" height="128" rx="14" fill="#e6e9f2" fill-opacity="0.5" stroke="#8b93a7" stroke-width="2"/>
+    <rect x="348" y="162" width="240" height="30" rx="8" fill="#4f74e8" fill-opacity="0.16"/>
+    <g fill="#4f74e8">
+      <path d="M364 170.5C364.6 173.3 365.7 174.4 368.5 175C365.7 175.6 364.6 176.7 364 179.5C363.4 176.7 362.3 175.6 359.5 175C362.3 174.4 363.4 173.3 364 170.5Z"/>
+    </g>
+    <g fill="#8b93a7">
+      <rect x="378" y="171" width="74" height="6" rx="3"/>
+      <rect x="378" y="181" width="120" height="4" rx="2" opacity="0.55"/>
+      <path d="M364 202.5C364.6 205.3 365.7 206.4 368.5 207C365.7 207.6 364.6 208.7 364 211.5C363.4 208.7 362.3 207.6 359.5 207C362.3 206.4 363.4 205.3 364 202.5Z"/>
+      <rect x="378" y="203" width="58" height="6" rx="3"/>
+      <rect x="378" y="213" width="150" height="4" rx="2" opacity="0.55"/>
+      <path d="M364 234.5C364.6 237.3 365.7 238.4 368.5 239C365.7 239.6 364.6 240.7 364 243.5C363.4 240.7 362.3 239.6 359.5 239C362.3 238.4 363.4 237.3 364 234.5Z"/>
+      <rect x="378" y="235" width="82" height="6" rx="3"/>
+      <rect x="378" y="245" width="104" height="4" rx="2" opacity="0.55"/>
+    </g>
+    <rect x="348" y="200" width="240" height="26" rx="8" stroke="#8b93a7" stroke-width="1.5" fill="none" opacity="0.5"/>
+    <rect x="348" y="232" width="240" height="26" rx="8" stroke="#8b93a7" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <g>
+    <circle cx="536" cy="276" r="12" fill="none" stroke="#8b93a7" stroke-width="1.8" opacity="0.6"/>
+    <path d="M530 276h12M536 270v12" stroke="#8b93a7" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+    <circle cx="572" cy="276" r="12" fill="#4f74e8" fill-opacity="0.16" stroke="#4f74e8" stroke-width="1.8"/>
+    <path d="M572 270.6C572.5 273 573.5 274 575.9 274.5C573.5 275 572.5 276 572 278.4C571.5 276 570.5 275 568.1 274.5C570.5 274 571.5 273 572 270.6Z" fill="#4f74e8"/>
+    <rect x="130" y="270" width="250" height="8" rx="4" fill="#8b93a7" opacity="0.45"/>
+  </g>
+  <path d="M583 262C596 246 600 232 592 214" fill="none" stroke="#4f74e8" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 6"/>
+  <path d="M586 218l6-8 7 7" fill="none" stroke="#4f74e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

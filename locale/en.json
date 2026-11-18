@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Skill panel",
+    "description": "Adds a Skills page to the left panel that lists every skill the current session can invoke, and a skill picker beside the composer's plus control. Open Skills in the left rail to read each skill's description, filter the list by name, and open its SKILL.md in the right sidebar. In the composer, the sparkle button opens the skill list; picking a skill inserts /name at the start of the draft, exactly as if it had been typed there, so the host loads that skill on send. The catalog is the open session's own agent composition, so a conversation must be open; nothing is inserted or sent without your click.",
+    "detail": "docs/DETAIL.md"
+  }
+}
